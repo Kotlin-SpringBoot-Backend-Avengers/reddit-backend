@@ -22,3 +22,42 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+Reddit/HELP.md
+Reddit/.gradle
+Reddit/build/
+Reddit/!gradle/wrapper/gradle-wrapper.jar
+Reddit/!**/src/main/**/build/
+Reddit/!**/src/test/**/build/
+
+### STS ###
+Reddit/.apt_generated
+Reddit/.classpath
+Reddit/.factorypath
+Reddit/.project
+Reddit/.settings
+Reddit/.springBeans
+Reddit/.sts4-cache
+Reddit/bin/
+Reddit/!**/src/main/**/bin/
+Reddit/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+Reddit/.idea
+Reddit/*.iws
+Reddit/*.iml
+Reddit/*.ipr
+Reddit/out/
+Reddit/!**/src/main/**/out/
+Reddit/!**/src/test/**/out/
+
+### NetBeans ###
+Reddit/nbproject/private/
+Reddit/nbbuild/
+Reddit/dist/
+Reddit/nbdist/
+Reddit/.nb-gradle/
+
+### VS Code ###
+Reddit/.vscode/
